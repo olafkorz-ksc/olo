@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVPInfo.pl" group-title="POLSKIE: Informacyjne",TVP Info (Legal Stream)
+https://stream.tvp.pl/library/v2/itvp/tvp-info/video.m3u8
+
+#EXTINF:-1 tvg-id="Kultura2.pl" group-title="POLSKIE: Kultura",TVP Kultura 2
+https://stream.tvp.pl/library/v2/itvp/tvp-kultura-2/video.m3u8
+
+#EXTINF:-1 tvg-id="WP.pl" group-title="POLSKIE: Ogólne",Telewizja WP (Darmowy)
+https://v-p-static.wp.pl/hls/wp/master.m3u8
+
+#EXTINF:-1 group-title="VOD: FILMY (Domena Publiczna)",Podróż na Księżyc (Kino Klasyczne)
+https://archive.org/download/A_Trip_to_the_Moon/A_Trip_to_the_Moon_512kb.mp4
+
+#EXTINF:-1 group-title="VOD: FILMY (Domena Publiczna)",Noc Żywych Trupów (Horror)
+https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead_512kb.mp4
