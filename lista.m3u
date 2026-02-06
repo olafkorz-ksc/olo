@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/TVP_Info_2023.png", TVP INFO (PL)
 https://stream.tvp.pl/library/v7/itvp/tvp-info/hls/playlist.m3u8
 
