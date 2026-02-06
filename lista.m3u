@@ -1,4 +1,10 @@
 #EXTM3U
-#EXTINF:-1,NASA TV
-https://ntvpublic-lh.akamaihd.net/i/EL1080_Standard@452969/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.deluxemusic.tv/favicon.ico", DELUXE MUSIC
+https://deluxemusic.digital-pioneer.com/hls/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.stars.tv/favicon.ico", STARS.TV (PL)
+https://stream.starstv.eu/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.clubtv.pl/favicon.ico", CLUB TV
+https://live.clubtv.pl/hls/clubtv.m3u8
 
